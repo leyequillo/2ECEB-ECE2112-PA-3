@@ -1,4 +1,4 @@
-#ECE2112 Programming Assignment 3
+# ECE2112 Programming Assignment 3
 
 **By: Leye Quillo, 2 ECE-B**
 
